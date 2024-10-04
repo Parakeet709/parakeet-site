@@ -10,3 +10,19 @@ nav{
 body{
  background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8M3x8cGFyYWtlZXR8ZW58MHx8fHwxNjg5NTUwNDk4fDA&ixlib=rb-4.0.3&q=80&w=2560");
 }
+
+/* Fonts */
+
+@font-face {
+  font-family: SanFrancisco;
+  src: url(sf-pro-display-semibold.otf);
+  font-weight: 400;
+ 
+}
+
+@font-face {
+  font-family: SanFrancisco;
+  src: url(sf-pro-display-heavy.otf);
+  font-weight: 700;
+
+}
