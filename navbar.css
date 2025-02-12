@@ -11,18 +11,16 @@
 }
 /* Navbar */
 nav{
- transform:translatex(0px) translatey(0px);
  font-family:"SanFrancisco";
  text-decoration: none;
  text-align: center;
- direction: ltr;
  background-color: #bcbcbc;
  height: 48px;
  width: 30% !important;
  margin-left: 35%;
+ margin-right: 35%;
  margin-top: 5px;
  border-radius: 12px;
-}
 }
 /* Background Image */
 body{
