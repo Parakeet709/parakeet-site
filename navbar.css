@@ -1,28 +1,30 @@
-nav{
- transform:translatex(0px) translatey(0px);
- font-family:"SanFrancisco";
- text-decoration:none;
- text-align:left;
- direction:ltr;
- background-color:#bcbcbc;
- height:33px;
-}
-body{
- background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8M3x8cGFyYWtlZXR8ZW58MHx8fHwxNjg5NTUwNDk4fDA&ixlib=rb-4.0.3&q=80&w=2560");
-}
-
 /* Fonts */
-
 @font-face {
   font-family: SanFrancisco;
   src: url(sf-pro-display-semibold.otf);
   font-weight: 400;
- 
 }
-
 @font-face {
   font-family: SanFrancisco;
   src: url(sf-pro-display-heavy.otf);
   font-weight: 700;
-
+}
+/* Navbar */
+nav{
+ transform:translatex(0px) translatey(0px);
+ font-family:"SanFrancisco";
+ text-decoration: none;
+ text-align: center;
+ direction: ltr;
+ background-color: #bcbcbc;
+ height: 48px;
+ width: 30% !important;
+ margin-left: 35%;
+ margin-top: 5px;
+ border-radius: 12px;
+}
+}
+/* Background Image */
+body{
+ background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8M3x8cGFyYWtlZXR8ZW58MHx8fHwxNjg5NTUwNDk4fDA&ixlib=rb-4.0.3&q=80&w=2560");
 }
