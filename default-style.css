@@ -46,9 +46,9 @@ body{
  margin-top:0px;
  margin-bottom:0px;
  color:#c6c6c6;
- background-color:rgb(26, 26, 26);
  font-family:'SanFrancisco';
- line-height:20px;
+ line-height:10px;
+ text-align: center;
  background-image:url("background.png") !important;
  background-size:600px 800px;
  background-attachment:scroll;
