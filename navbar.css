@@ -27,15 +27,17 @@ div.nav-menu{
  font-family:"SanFrancisco";
  text-decoration: none;
  text-align: center;
- background-color: rgba(30, 30, 30, 0.8);
- height: 48px;
+ background-color: rgba(30, 30, 30, 0.8) !important;
+ height: 48px !important;
  width: 30% !important;
  margin-left: 35%;
  margin-right: 35%;
  margin-top: 5px;
  border-radius: 12px;
+}
+div.nav-img{
  display: inline-block;
- height: 28px;
+ height: 36px;
 }
 /* Background Image */
 body{
