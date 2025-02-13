@@ -33,7 +33,7 @@ body{
  line-height:10px;
  text-align: center !important;
  background-image:url("background.png") !important;
- background-size:600px 800px;
+ background-size:600px 800px !important;
  background-attachment:scroll !important;
  background-repeat:repeat !important;
 }
