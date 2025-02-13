@@ -23,7 +23,7 @@ nav{
  border-radius: 12px;
 }
 /* Div */
-div{
+div.nav-menu{
  font-family:"SanFrancisco";
  text-decoration: none;
  text-align: center;
@@ -34,6 +34,8 @@ div{
  margin-right: 35%;
  margin-top: 5px;
  border-radius: 12px;
+ display: inline-block;
+ height: 28px;
 }
 /* Background Image */
 body{
