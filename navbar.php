@@ -1,9 +1,9 @@
-<div class="navbar">
-   <div class="brand">
-      <a href="/"><img src="Parakeet.png" alt="Home"></a>
-    </div>
-    <div class="menu">
-       <a href="about.html">Abouts</a>
-       <<a href="about.html">Abouts</a>
-    </div>
-</div>
+  <div class="navbar">
+   <div class="nav-menu">
+    <a href="/"><img src="Parakeet.png" alt="Home" class="nav-img"></a>
+   </div>
+   <div class="nav-text">
+    <a href="about.html">About1</a>
+    <a href="about.html">About2</a>
+   </div>
+  </div>
