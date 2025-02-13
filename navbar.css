@@ -35,7 +35,7 @@ div.nav-menu{
  margin-top: 5px;
  border-radius: 12px;
 }
-div.nav-img{
+a.nav-img{
  display: inline-block;
  height: 36px;
 }
