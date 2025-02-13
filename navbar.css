@@ -39,7 +39,17 @@ div.nav-img{
  display: inline-block;
  height: 36px;
 }
-/* Background Image */
+/* Body */
 body{
- background-image:rgb(26, 26, 26) !important;
+ margin-left:0px;
+ margin-right:0px;
+ margin-top:0px;
+ margin-bottom:0px;
+ background-size:cover;
+ background-attachment:fixed;
+ background-repeat:no-repeat;
+ color:#c6c6c6;
+ background-color:rgb(26, 26, 26);
+ font-family:'SanFrancisco';
+ line-height:20px;
 }
