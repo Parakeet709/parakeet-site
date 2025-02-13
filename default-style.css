@@ -49,7 +49,7 @@ body{
  background-color:rgb(26, 26, 26);
  font-family:'SanFrancisco';
  line-height:20px;
- background-image:url("background.png");
+ background-image:url(background.png);
  background-size:600px 800px;
  background-attachment:scroll;
  background-repeat:repeat;
