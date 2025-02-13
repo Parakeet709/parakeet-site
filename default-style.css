@@ -16,15 +16,15 @@ div.nav-menu{
  text-align: left;
  background-color: rgba(30, 30, 30, 0.8) !important;
  height: 64px !important;
- width: 96% !important;
- margin: 2% !important;
+ width: 98% !important;
+ margin: 1% !important;
  margin-bottom: 12px !important;
  border-radius: 20px;
 }
 img.nav-img{
  display: inline-block;
- height: 52px;
- padding-top: 6px;
+ height: 50px;
+ padding: 7px;
 /* Body */
 body{
  margin:0px !important;
